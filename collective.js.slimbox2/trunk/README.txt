@@ -25,7 +25,7 @@ Authors
 
 Contributors
 
-  - Johannes RAGGAM
+  - Johannes RAGGAM aka thet <raggam-nl@adm.at>
 
 .. |makinacom| image:: http://depot.makina-corpus.org/public/logo.gif
 .. _makinacom:  http://www.makina-corpus.com

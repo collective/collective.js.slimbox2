@@ -11,7 +11,7 @@ Changelog
 ----------------
 
 - Update to slimbox to 2.04
-  [johannes raggam]
+  [thet]
 
 1.0 - Unreleased
 ----------------
