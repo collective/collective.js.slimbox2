@@ -1,6 +1,12 @@
 Changelog
 =========
 
+1.1 - Unreleased
+----------------
+
+- Update to slimbox to 2.04
+  [johannes raggam]
+
 1.0 - Unreleased
 ----------------
 
