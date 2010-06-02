@@ -10,7 +10,7 @@
   />
   <genericsetup:registerProfile
      name="default"
-     title="Slimbox2 Plone js integration"
+     title="collective.js.slimbox2: Slimbox2 Plone js integration"
      directory="profiles/default"
      description=""
      provides="Products.GenericSetup.interfaces.EXTENSION"
