@@ -4,7 +4,17 @@ Changelog
 1.2 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Change GS-Profile title to include the package name to better distinguish it
+  from other packages.
+  [thet]
+
+- Remove title-attribute from jsregistry.xml. Products.ResourceRegistries 2
+  doesn't expect it.
+  [thet]
+
+- Add cssregistry.xml to have slimbox2 css files registered and include in
+  Plone theme.
+  [thet]
 
 
 1.1 (2010-06-02)
