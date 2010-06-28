@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.4 (unreleased)
+1.4 (2010-06-28)
 ----------------
 
 - Add an slimbox2-overrides.css to properly reference images which weren't
@@ -11,6 +11,7 @@ Changelog
 - Add an browserlayer, so that resources are only available if the
   browserlayer was registered.
   [thet]
+
 
 1.3 (2010-06-17)
 ----------------
