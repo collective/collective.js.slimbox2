@@ -6,6 +6,9 @@ and give official slimbox2 full release available throw browser resource directo
 
 Version of slimbox2: 2.04
 
+To install or upgrade, goto ZMI, portal_setup and run the
+collective.js.slimbox2 setup step.
+
 
 Credits
 =======
