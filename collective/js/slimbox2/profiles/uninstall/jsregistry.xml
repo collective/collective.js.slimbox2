@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<object name="portal_javascripts">
+  <javascript remove="True" id="++resource++slimbox2/js/slimbox2.js" />
+</object>
