@@ -13,4 +13,12 @@
         description=""
         provides="Products.GenericSetup.interfaces.EXTENSION" />
 
+    <genericsetup:registerProfile
+        name="uninstall"
+        title="collective.js.slimbox2: uninstall"
+        directory="profiles/uninstall"
+        description="Removes parts of adm.sfd.course."
+        provides="Products.GenericSetup.interfaces.EXTENSION"
+        />
+
 </configure>
